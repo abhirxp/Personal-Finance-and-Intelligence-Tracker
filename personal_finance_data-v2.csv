@@ -1,0 +1,522 @@
+date,merchant,category,payment_mode,amount,type
+2025-01-01,TechCorp Salary,Salary,NetBanking,80000.0,Income
+2025-01-02,Ola,Transport,UPI,314.65,Expense
+2025-01-02,Local Cafe,Food & Dining,UPI,775.26,Expense
+2025-01-02,Blinkit,Groceries,UPI,501.43,Expense
+2025-01-03,Uber,Transport,UPI,601.36,Expense
+2025-01-03,Gym Membership,Health,Credit Card,2000.0,Expense
+2025-01-03, swiggy ,Food & Dining,UPI,472.7,Expense
+2025-01-03,Amazon,Shopping,Credit Card,1089.09,Expense
+2025-01-04,Blinkit,Groceries,Debit Card,566.28,Expense
+2025-01-04,BigBasket,Groceries,UPI,944.28,Expense
+2025-01-05,House Rent,Housing,UPI,18000.0,Expense
+2025-01-06,Zomato,Food & Dining,UPI,387.86,Expense
+2025-01-06,Myntra,Shopping,UPI,2508.51,Expense
+2025-01-08,Blinkit,Groceries,Debit Card,367.87,Expense
+2025-01-08,BigBasket,Groceries,Debit Card,569.92,Expense
+2025-01-08,JioFiber,Utilities,UPI,999.0,Expense
+2025-01-09,Uber,Transport,UPI,228.11,Expense
+2025-01-10,Electricity Bill,Utilities,UPI,1789.41,Expense
+2025-01-11,BigBasket,Groceries,UPI,497.61,Expense
+2025-01-11,Uber,Transport,UPI,218.27,Expense
+2025-01-12,Swiggy,Food & Dining,Credit Card,385.57,Expense
+2025-01-12,Local Cafe,Food & Dining,UPI,722.52,Expense
+2025-01-12,Amazon,Shopping,Credit Card,2230.48,Expense
+2025-01-13,Flipkart,Shopping,UPI,2293.17,Expense
+2025-01-14,Netflix,Subscriptions,Credit Card,499.0,Expense
+2025-01-15,Local Cafe,Food & Dining,UPI,305.24,Expense
+2025-01-17,DMart,Groceries,UPI,895.43,Expense
+2025-01-18,PVR Cinemas,Entertainment,Credit Card,433.66,Expense
+2025-01-18,BookMyShow,Entertainment,UPI,861.28,Expense
+2025-01-18,Metro Recharge,Transport,UPI,237.14,Expense
+2025-01-19,Ola,Transport,UPI,592.78,Expense
+2025-01-19,Metro Recharge,Transport,UPI,266.22,Expense
+2025-01-21,Ola,Transport,UPI,311.55,Expense
+2025-01-21,Swiggy,Food & Dining,Credit Card,741.43,Expense
+2025-01-23,DMart,Groceries,Debit Card,876.68,Expense
+2025-01-23,Metro Recharge,Transport,UPI,212.98,Expense
+2025-01-24,DMart,Groceries,UPI,929.07,Expense
+2025-01-25,BigBasket,Groceries,UPI,356.66,Expense
+2025-01-26,Blinkit,Groceries,Debit Card,778.34,Expense
+2025-01-27,Local Cafe,Food & Dining,Credit Card,861.8,Expense
+2025-01-28,Blinkit,Groceries,UPI,1052.86,Expense
+2025-01-30,Metro Recharge,Transport,UPI,346.96,Expense
+2025-01-30,Local Cafe,Food & Dining,Credit Card,234.98,Expense
+2025-01-30,Zomato,Food & Dining,UPI,605.07,Expense
+2025-02-01,TechCorp Salary,Salary,NetBanking,80000.0,Income
+2025-02-01,Blinkit,Groceries,UPI,1260.53,Expense
+2025-02-02,Zomato,Food & Dining,UPI,575.9,Expense
+2025-02-03,Gym Membership,Health,Credit Card,2000.0,Expense
+2025-02-03,Flipkart,Shopping,Credit Card,761.88,Expense
+2025-02-05,House Rent,Housing,UPI,18000.0,Expense
+2025-02-05,DMart,Groceries,UPI,1338.88,Expense
+2025-02-06,BigBasket,Groceries,UPI,1346.89,Expense
+2025-02-07,Uber,Transport,UPI,144.28,Expense
+2025-02-07,Local Cafe,Food & Dining,Credit Card,711.2,Expense
+2025-02-08,Ola,Transport,UPI,542.2,Expense
+2025-02-08, jiofiber ,Utilities,UPI,999.0,Expense
+2025-02-09,Flipkart,Shopping,Credit Card,3398.36,Expense
+2025-02-09,Local Cafe,Food & Dining,UPI,344.96,Expense
+2025-02-09,Local Cafe,Food & Dining,Credit Card,505.82,Expense
+2025-02-10,Electricity Bill,Utilities,UPI,1675.11,Expense
+2025-02-11,Swiggy,Food & Dining,Credit Card,606.52,Expense
+2025-02-12,Blinkit,Groceries,Debit Card,1346.52,Expense
+2025-02-13,Metro Recharge,Transport,UPI,280.01,Expense
+2025-02-14,Ola,Transport,UPI,327.2,Expense
+2025-02-14,Netflix,Subscriptions,Credit Card,499.0,Expense
+2025-02-15,Swiggy,Food & Dining,UPI,353.02,Expense
+2025-02-15,Metro Recharge,Transport,UPI,120.34,Expense
+2025-02-17,Blinkit,Groceries,Debit Card,593.21,Expense
+2025-02-17,Blinkit,Groceries,Debit Card,622.78,Expense
+2025-02-18,Flipkart,Shopping,Credit Card,1950.02,Expense
+2025-02-18,BookMyShow,Entertainment,UPI,1044.78,Expense
+2025-02-19, swiggy ,Food & Dining,UPI,234.66,Expense
+2025-02-19,Blinkit,Groceries,UPI,1091.69,Expense
+2025-02-21,Zomato,Food & Dining,UPI,872.7,Expense
+2025-02-21,Metro Recharge,Transport,UPI,145.11,Expense
+2025-02-21,Swiggy,Food & Dining,UPI,231.9,Expense
+2025-02-21,DMart,Groceries,Debit Card,478.75,Expense
+2025-02-23,Zomato,Food & Dining,UPI,946.27,Expense
+2025-02-24,Metro Recharge,Transport,UPI,412.68,Expense
+2025-02-24,BigBasket,Groceries,Debit Card,1126.26,Expense
+2025-02-27,Blinkit,Groceries,Debit Card,1130.71,Expense
+2025-02-27,BigBasket,Groceries,UPI,316.61,Expense
+2025-02-28,BookMyShow,Entertainment,UPI,654.81,Expense
+2025-02-28,Uber,Transport,UPI,229.25,Expense
+2025-03-01, techcorp salary ,Salary,NetBanking,80000.0,Income
+2025-03-01,BigBasket,Groceries,UPI,1315.5,Expense
+2025-03-02,PVR Cinemas,Entertainment,Credit Card,1024.24,Expense
+2025-03-02, dmart ,Groceries,UPI,315.74,Expense
+2025-03-03,Blinkit,Groceries,UPI,934.29,Expense
+2025-03-03,Gym Membership,Health,Credit Card,2000.0,Expense
+2025-03-03,Zomato,Food & Dining,Credit Card,629.43,Expense
+2025-03-04,Amazon,Shopping,Credit Card,2345.89,Expense
+2025-03-05,House Rent,Housing,UPI,18000.0,Expense
+2025-03-05,Ola,Transport,UPI,247.78,Expense
+2025-03-05,Local Cafe,Food & Dining,Credit Card,411.0,Expense
+2025-03-06,Zomato,Food & Dining,Credit Card,721.73,Expense
+2025-03-07,Metro Recharge,Transport,UPI,282.01,Expense
+2025-03-07,BigBasket,Groceries,UPI,439.33,Expense
+2025-03-08,JioFiber,Utilities,UPI,999.0,Expense
+2025-03-08,Local Cafe,Food & Dining,Credit Card,210.6,Expense
+2025-03-10,Electricity Bill,Utilities,UPI,1816.58,Expense
+2025-03-11,Swiggy,Food & Dining,UPI,532.88,Expense
+2025-03-14,Ola,Transport,UPI,114.69,Expense
+2025-03-14,Netflix,Subscriptions,Credit Card,499.0,Expense
+2025-03-15, freelance project ,Other Income,NetBanking,15000.0,Income
+2025-03-15,Myntra,Shopping,UPI,2394.9,Expense
+16/03/2025,Blinkit,Groceries,UPI,591.21,Expense
+2025-03-17,Zomato,Food & Dining,UPI,337.28,Expense
+2025-03-17,Zomato,Food & Dining,UPI,898.61,Expense
+2025-03-17,Blinkit,Groceries,UPI,1354.9,Expense
+2025-03-17,Ola,Transport,UPI,230.63,Expense
+2025-03-19,Swiggy,Food & Dining,UPI,593.98,Expense
+2025-03-19,BigBasket,Groceries,Debit Card,1307.3,Expense
+2025-03-20,Local Cafe,Food & Dining,Credit Card,186.02,Expense
+2025-03-22,Metro Recharge,Transport,UPI,567.63,Expense
+2025-03-22,Blinkit,Groceries,UPI,387.87,Expense
+2025-03-23,Zomato,Food & Dining,UPI,-384.52,Expense
+2025-03-25, amazon ,Shopping,UPI,1117.06,Expense
+2025-03-26,BookMyShow,Entertainment,Credit Card,507.56,Expense
+2025-03-26,BigBasket,Groceries,UPI,736.46,Expense
+2025-03-27,Local Cafe,Food & Dining,UPI,897.45,Expense
+2025-03-27,Flipkart,Shopping,Credit Card,1975.32,Expense
+2025-03-29,Swiggy,Food & Dining,UPI,464.54,Expense
+2025-03-29,Uber,Transport,UPI,-505.75,Expense
+2025-03-30,Uber,Transport,UPI,141.69,Expense
+2025-03-31,Blinkit,Groceries,Debit Card,1096.1,Expense
+2025-03-31,DMart,Groceries,Debit Card,1011.15,Expense
+2025-03-31,Uber,Transport,UPI,238.1,Expense
+2025-04-01,Swiggy,Food & Dining,UPI,317.5,Expense
+2025-04-01,TechCorp Salary,Salary,NetBanking,80000.0,Income
+2025-04-01,Local Cafe,Food & Dining,Credit Card,708.88,Expense
+2025-04-02, bigbasket ,Groceries,UPI,479.51,Expense
+2025-04-03, metro recharge ,Transport,UPI,605.63,Expense
+2025-04-03,Gym Membership,Health,Credit Card,2000.0,Expense
+2025-04-04,Metro Recharge,Transport,UPI,594.03,Expense
+2025-04-05,House Rent,Housing,UPI,18000.0,Expense
+2025-04-07,Zomato,Food & Dining,UPI,725.76,Expense
+2025-04-08,JioFiber,Utilities,UPI,999.0,Expense
+2025-04-09,Swiggy,Food & Dining,UPI,639.36,Expense
+2025-04-10,Electricity Bill,Utilities,UPI,1974.15,Expense
+2025-04-10, ola ,Transport,UPI,396.84,Expense
+2025-04-10,Flipkart,Shopping,Credit Card,1975.64,Expense
+2025-04-11,Ola,Transport,UPI,480.44,Expense
+2025-04-12,Local Cafe,Food & Dining,UPI,516.02,Expense
+2025-04-13,Local Cafe,Food & Dining,Credit Card,434.99,Expense
+2025-04-13,Zomato,Food & Dining,UPI,845.55,Expense
+2025-04-14,Netflix,Subscriptions,Credit Card,499.0,Expense
+2025-04-15,Myntra,Shopping,Credit Card,2235.76,Expense
+2025-04-17,Ola,Transport,UPI,463.46,Expense
+2025-04-17, swiggy ,Food and Dining,UPI,872.62,Expense
+2025-04-18,Uber,Transport,UPI,197.43,Expense
+2025-04-19,Myntra,Shopping,UPI,2087.96,Expense
+2025-04-20,Ola,Transport,UPI,461.5,Expense
+2025-04-20,Amazon,Shopping,Credit Card,24999.0,Expense
+2025-04-22,Ola,Transport,UPI,469.3,Expense
+2025-04-22,Blinkit,Groceries,UPI,1147.13,Expense
+2025-04-22,PVR Cinemas,Entertainment,UPI,963.82,Expense
+2025-04-24,Local Cafe,Food & Dining,Credit Card,331.72,Expense
+2025-04-24,BigBasket,Groceries,UPI,1172.57,Expense
+2025-04-25,Zomato,Food & Dining,UPI,673.94,Expense
+2025-04-26,Blinkit,Groceries,UPI,278.5,Expense
+2025-04-26,Blinkit,Groceries,UPI,277.21,Expense
+2025-04-26,BookMyShow,Entertainment,UPI,562.84,Expense
+2025-04-26,DMart,Groceries,UPI,689.92,Expense
+2025-04-28,DMart,Groceries,UPI,556.83,Expense
+2025-04-29,BigBasket,Groceries,Debit Card,1111.9,Expense
+2025-04-29,Uber,Transport,UPI,434.69,Expense
+2025-04-30,BigBasket,Groceries,UPI,600.97,Expense
+2025-04-30,Blinkit,Groceries,UPI,1372.64,Expense
+2025-05-01,Ola,Transport,UPI,257.22,Expense
+2025-05-01,Metro Recharge,Transport,UPI,303.01,Expense
+2025-05-01,TechCorp Salary,Salary,NetBanking,80000.0,Income
+2025-05-03,Gym Membership,Health,Credit Card,2000.0,Expense
+2025-05-03,Swiggy,Food & Dining,UPI,358.07,Expense
+2025-05-05,Blinkit,Groceries,UPI,531.57,Expense
+2025-05-05,DMart,Groceries,Debit Card,256.38,Expense
+2025-05-05,House Rent,Housing,UPI,18000.0,Expense
+2025-05-08,JioFiber,Utilities,UPI,999.0,Expense
+2025-05-09,Ola,Transport,UPI,361.96,Expense
+2025-05-09,Zomato,Food & Dining,UPI,867.63,Expense
+2025-05-09,Flipkart,Shopping,UPI,1277.31,Expense
+2025-05-10,Electricity Bill,Utilities,UPI,2357.85,Expense
+2025-05-11,PVR Cinemas,Entertainment,Credit Card,558.69,Expense
+2025-05-13,Ola,Transport,,464.57,Expense
+2025-05-13,Ola,Transport,UPI,391.4,Expense
+2025-05-14,Amazon,Shopping,UPI,1181.53,Expense
+2025-05-14,Zomato,Food & Dining,UPI,597.81,Expense
+2025-05-14,Swiggy,Food & Dining,UPI,821.33,Expense
+2025-05-14,Netflix,Subscriptions,Credit Card,499.0,Expense
+2025-05-15,Swiggy,Food & Dining,Credit Card,400.01,Expense
+2025-05-16,Zomato,,UPI,758.87,Expense
+2025-05-16,DMart,Groceries,UPI,773.73,Expense
+2025-05-17,Zomato,Food & Dining,Credit Card,364.22,Expense
+2025-05-18,Zomato,Food & Dining,UPI,752.61,Expense
+2025-05-18,Blinkit,Groceries,UPI,774.93,Expense
+2025-05-19,Myntra,Shopping,Credit Card,868.63,Expense
+2025-05-20,Zomato,Food & Dining,UPI,651.74,Expense
+2025-05-22,BigBasket,Groceries,UPI,1177.55,Expense
+2025-05-23,BigBasket,Groceries,UPI,709.6,Expense
+2025-05-23,Swiggy,Food & Dining,Credit Card,344.74,Expense
+2025-05-24,Metro Recharge,Transport,UPI,537.93,Expense
+2025-05-24,Local Cafe,Food & Dining,UPI,819.54,Expense
+2025-05-25,Blinkit,Groceries,UPI,501.67,Expense
+2025-05-26,Ola,Transport,UPI,495.54,Expense
+2025-05-26,BigBasket,Groceries,Debit Card,860.8,Expense
+2025-05-26,DMart,Groceries,Debit Card,784.23,Expense
+2025-05-27,Local Cafe,Food & Dining,UPI,769.68,Expense
+2025-05-29,Uber,Transport,UPI,363.41,Expense
+2025-05-29,Metro Recharge,Transport,,619.79,Expense
+2025-05-29,DMart,Groceries,Debit Card,473.6,Expense
+2025-05-30,Amazon,Shopping,Credit Card,3502.17,Expense
+2025-05-31,PVR Cinemas,Entertainment,Credit Card,976.18,Expense
+2025-06-01,TechCorp Salary,Salary,NetBanking,80000.0,Income
+2025-06-01,Amazon,Shopping,UPI,1309.11,Expense
+2025-06-01,DMart,Groceries,Debit Card,309.9,Expense
+2025-06-03,Gym Membership,Health,Credit Card,2000.0,Expense
+2025-06-04,Local Cafe,Food & Dining,UPI,447.35,Expense
+2025-06-05,BigBasket,Groceries,Debit Card,381.55,Expense
+2025-06-05,House Rent,Housing,UPI,18000.0,Expense
+2025-06-06,BigBasket,Groceries,UPI,915.49,Expense
+2025-06-07,Blinkit,Groceries,Debit Card,425.24,Expense
+2025-06-07,BigBasket,,Debit Card,544.68,Expense
+07/06/2025, ola ,Transport,UPI,536.79,Expense
+2025-06-08,JioFiber,,UPI,999.0,Expense
+2025-06-08,Swiggy,Food and Dining,UPI,858.86,Expense
+2025-06-10,Electricity Bill,Utilities,UPI,2357.86,Expense
+2025-06-11,Ola,Transport,UPI,582.98,Expense
+2025-06-12,PVR Cinemas,Entertainment,Credit Card,669.13,Expense
+2025-06-12,Local Cafe,Food & Dining,UPI,724.63,Expense
+2025-06-12, electricity bill ,Utilities,UPI,5800.0,Expense
+2025-06-12,Blinkit,Groceries,Debit Card,328.91,Expense
+2025-06-12,Blinkit,Groceries,Debit Card,948.33,Expense
+2025-06-13,BigBasket,Groceries,Debit Card,478.08,Expense
+2025-06-14,Local Cafe,Food & Dining,UPI,233.1,Expense
+2025-06-14,Netflix,Subscriptions,Credit Card,499.0,Expense
+2025-06-14,Swiggy,Food & Dining,Credit Card,581.74,Expense
+2025-06-16,Ola,Transport,UPI,191.83,Expense
+2025-06-17,Uber,Transport,UPI,137.94,Expense
+2025-06-18,Zomato,Food & Dining,UPI,515.39,Expense
+2025-06-21,Zomato,Food & Dining,UPI,834.17,Expense
+2025-06-21,Blinkit,Groceries,UPI,1342.05,Expense
+2025-06-21,Zomato,Food & Dining,Credit Card,802.31,Expense
+2025-06-22,Ola,Transport,UPI,278.38,Expense
+2025-06-23,Flipkart,Shopping,UPI,2034.16,Expense
+2025-06-23, ola ,Transport,UPI,401.24,Expense
+2025-06-23,Amazon,Shopping,UPI,2724.67,Expense
+2025-06-23,Local Cafe,Food & Dining,UPI,258.46,Expense
+2025-06-24,Ola,Transport,UPI,363.6,Expense
+2025-06-24,Local Cafe,Food & Dining,UPI,428.17,Expense
+2025-06-24,PVR Cinemas,Entertainment,Credit Card,877.14,Expense
+2025-06-24,DMart,Groceries,UPI,1144.46,Expense
+2025-06-25,Ola,Transport,UPI,409.12,Expense
+2025-06-25,Zomato,Food & Dining,Credit Card,642.32,Expense
+2025-06-27,Zomato,Food & Dining,UPI,513.81,Expense
+2025-06-30,BigBasket,Groceries,Debit Card,1028.95,Expense
+2025-07-01,TechCorp Salary,Salary,NetBanking,80000.0,Income
+2025-07-03,Swiggy,Food & Dining,UPI,609.72,Expense
+2025-07-03,Uber,Transport,UPI,91.5,Expense
+2025-07-03,Gym Membership,Health,Credit Card,2000.0,Expense
+2025-07-03,Local Cafe,Food & Dining,Credit Card,708.57,Expense
+2025-07-04,Blinkit,Groceries,UPI,511.61,Expense
+2025-07-05,BigBasket,Groceries,UPI,1370.44,Expense
+2025-07-05,House Rent,Housing,UPI,18000.0,Expense
+2025-07-05,Swiggy,Food & Dining,Credit Card,910.83,Expense
+2025-07-06,Uber,Transport,UPI,187.34,Expense
+2025-07-06,BigBasket,Groceries,UPI,1064.22,Expense
+2025-07-06,Flipkart,Shopping,UPI,2005.29,Expense
+2025-07-06,Swiggy,Food & Dining,UPI,904.62,Expense
+2025-07-07,BigBasket,Groceries,UPI,1104.31,Expense
+2025-07-07,Local Cafe,Food & Dining,UPI,383.78,Expense
+2025-07-08,Local Cafe,Food & Dining,UPI,526.9,Expense
+2025-07-08,JioFiber,Utilities,UPI,999.0,Expense
+2025-07-10,Electricity Bill,Utilities,UPI,2684.26,Expense
+2025-07-10,Local Cafe,Food & Dining,Credit Card,226.38,Expense
+2025-07-10,BigBasket,Groceries,UPI,388.75,Expense
+2025-07-10,Uber,Transport,UPI,219.63,Expense
+2025-07-14,Amazon,Shopping,Credit Card,2672.43,Expense
+2025-07-14,Local Cafe,Food & Dining,Credit Card,788.87,Expense
+2025-07-14,Netflix,Subscriptions,Credit Card,499.0,Expense
+2025-07-15,Zomato,Food & Dining,Credit Card,942.32,Expense
+2025-07-15,PVR Cinemas,Entertainment,Credit Card,1057.01,Expense
+2025-07-15,Metro Recharge,Transport,UPI,422.53,Expense
+2025-07-15,Uber,Transport,UPI,474.94,Expense
+2025-07-16,Swiggy,Food & Dining,UPI,488.54,Expense
+2025-07-17,PVR Cinemas,Entertainment,Credit Card,410.33,Expense
+2025-07-18,BigBasket,Groceries,Debit Card,1335.7,Expense
+2025-07-19,BigBasket,Groceries,UPI,800.52,Expense
+2025-07-21,Metro Recharge,Transport,UPI,460.26,Expense
+2025-07-21,BigBasket,Groceries,UPI,1253.63,Expense
+2025-07-23,Ola,Transport,UPI,483.67,Expense
+2025-07-24,BigBasket,Groceries,UPI,1083.27,Expense
+2025-07-25,DMart,Groceries,Debit Card,575.45,Expense
+2025-07-30,Ola,Transport,UPI,531.18,Expense
+2025-07-30,Flipkart,Shopping,Credit Card,828.51,Expense
+2025-07-31,DMart,Groceries,UPI,470.27,Expense
+2025-07-31,Local Cafe,Food & Dining,UPI,909.64,Expense
+2025-08-01,Local Cafe,Food & Dining,Credit Card,535.72,Expense
+2025-08-01,TechCorp Salary,Salary,NetBanking,80000.0,Income
+2025-08-02,Swiggy,Food and Dining,Credit Card,458.57,Expense
+2025-08-02,Swiggy,Food & Dining,UPI,602.9,Expense
+2025-08-03,Gym Membership,Health,Credit Card,2000.0,Expense
+2025-08-04,Metro Recharge,Transport,UPI,556.0,Expense
+2025-08-05,House Rent,Housing,UPI,18000.0,Expense
+08/08/2025,JioFiber,Utilities,UPI,999.0,Expense
+2025-08-09,Blinkit,Groceries,UPI,513.26,Expense
+2025-08-10,Electricity Bill,Utilities,UPI,1838.14,Expense
+2025-08-10,Myntra,Shopping,UPI,3368.83,Expense
+2025-08-11,Zomato,Food & Dining,UPI,269.26,Expense
+2025-08-14,DMart,Groceries,UPI,1364.41,Expense
+2025-08-14,Netflix,Subscriptions,Credit Card,499.0,Expense
+2025-08-15,Apollo Hospital,Health,Credit Card,9500.0,Expense
+2025-08-15,BigBasket,Groceries,UPI,1396.49,Expense
+2025-08-15,Myntra,Shopping,UPI,1704.4,Expense
+2025-08-16,Ola,Transport,UPI,226.49,Expense
+2025-08-16,BigBasket,Groceries,UPI,633.3,Expense
+2025-08-16,Swiggy,Food & Dining,UPI,929.32,Expense
+16/08/2025,Metro Recharge,Transport,UPI,253.44,Expense
+2025-08-17,Flipkart,Shopping,Credit Card,1505.08,Expense
+2025-08-18,PVR Cinemas,,Credit Card,1049.64,Expense
+2025-08-18,Swiggy,Food & Dining,Credit Card,494.15,Expense
+2025-08-18,Uber,Transport,UPI,304.81,Expense
+2025-08-20,Swiggy,Food & Dining,Credit Card,301.95,Expense
+2025-08-22,DMart,Groceries,Debit Card,1343.4,Expense
+2025-08-22,Blinkit,Groceries,UPI,629.27,Expense
+2025-08-23,BigBasket,Groceries,UPI,1011.97,Expense
+2025-08-23,Ola,Transport,UPI,322.67,Expense
+2025-08-25,DMart,Groceries,UPI,912.68,Expense
+2025-08-25,Flipkart,Online Shopping,UPI,3589.59,Expense
+2025-08-25,Blinkit,Groceries,UPI,846.81,Expense
+2025-08-25, zomato ,Food & Dining,Credit Card,520.37,Expense
+2025-08-25,Zomato,Food and Dining,Credit Card,815.19,Expense
+2025-08-27,Uber,Transport,UPI,348.41,Expense
+2025-08-27,Local Cafe,Food & Dining,UPI,530.22,Expense
+2025-08-28,BookMyShow,Entertainment,UPI,778.85,Expense
+2025-08-29,Uber,Transport,UPI,573.86,Expense
+2025-08-29,BigBasket,Groceries,Debit Card,620.67,Expense
+2025-08-30,Metro Recharge,Transport,UPI,374.61,Expense
+2025-08-30,Zomato,Food & Dining,UPI,858.25,Expense
+2025-09-01,TechCorp Salary,Salary,NetBanking,80000.0,Income
+2025-09-01,Ola,Transport,UPI,594.68,Expense
+2025-09-02,Zomato,Food & Dining,UPI,468.63,Expense
+2025-09-02,Local Cafe,Food & Dining,UPI,360.77,Expense
+2025-09-02,Blinkit,Groceries,Debit Card,1360.16,Expense
+2025-09-03,Gym Membership,Health,Credit Card,2000.0,Expense
+2025-09-04,Zomato,Food & Dining,UPI,714.38,Expense
+2025-09-05,House Rent,Housing,UPI,18000.0,Expense
+2025-09-05,Swiggy,Food & Dining,Credit Card,497.28,Expense
+2025-09-07,Myntra,Shopping,UPI,2768.85,Expense
+2025-09-08,Myntra,Shopping,UPI,1300.81,Expense
+2025-09-08,JioFiber,Utilities,UPI,999.0,Expense
+2025-09-09,Ola,Transport,UPI,232.98,Expense
+2025-09-10,Metro Recharge,Transport,UPI,255.33,Expense
+2025-09-10,Electricity Bill,Utilities,UPI,1615.49,Expense
+2025-09-10,Uber,Transport,UPI,649.65,Expense
+2025-09-10,Metro Recharge,Transport,UPI,628.74,Expense
+2025-09-11,Blinkit,Groceries,UPI,364.67,Expense
+2025-09-13,DMart,Groceries,UPI,1229.53,Expense
+2025-09-13,Flipkart,Shopping,Credit Card,2410.97,Expense
+2025-09-13,Metro Recharge,Transport,UPI,291.02,Expense
+2025-09-14,Swiggy,Food & Dining,Credit Card,722.0,Expense
+2025-09-14,Netflix,Subscriptions,Credit Card,499.0,Expense
+2025-09-14,DMart,Groceries,UPI,336.05,Expense
+2025-09-15,Freelance Project,Other Income,NetBanking,15000.0,Income
+2025-09-15,Ola,Transport,UPI,643.08,Expense
+2025-09-16,DMart,Groceries,UPI,693.99,Expense
+2025-09-16,Local Cafe,Food & Dining,UPI,358.79,Expense
+2025-09-20,Zomato,Food & Dining,Credit Card,706.01,Expense
+2025-09-21,BookMyShow,Entertainment,Credit Card,941.46,Expense
+2025-09-21,Local Cafe,Food & Dining,UPI,851.73,Expense
+2025-09-22,Metro Recharge,Transport,UPI,178.47,Expense
+2025-09-22,Swiggy,Food & Dining,UPI,314.8,Expense
+2025-09-22,DMart,Groceries,UPI,819.63,Expense
+2025-09-22,Zomato,Food & Dining,UPI,755.01,Expense
+2025-09-22,Myntra,Shopping,Credit Card,3513.97,Expense
+2025-09-23,Ola,Transport,UPI,345.83,Expense
+2025-09-24,BookMyShow,Entertainment,UPI,1027.55,Expense
+2025-09-24, flipkart ,Shopping,UPI,3082.37,Expense
+2025-09-26,BigBasket,Groceries,UPI,966.75,Expense
+2025-09-28,DMart,Groceries,Debit Card,687.01,Expense
+2025-09-28,Ola,Transport,UPI,149.73,Expense
+2025-09-28,BigBasket,Groceries,UPI,615.9,Expense
+2025-09-29,Swiggy,Food and Dining,UPI,429.77,Expense
+2025-09-30,BigBasket,groceries,UPI,1080.81,Expense
+2025-10-01,TechCorp Salary,Salary,NetBanking,80000.0,Income
+2025-10-03,Gym Membership,Health,Credit Card,2000.0,Expense
+2025-10-04,Metro Recharge,Transport,UPI,295.71,Expense
+2025-10-04,Swiggy,Food & Dining,UPI,908.62,Expense
+2025-10-04,Local Cafe,Food & Dining,UPI,543.04,Expense
+2025-10-05,Blinkit,Groceries,Debit Card,1082.85,Expense
+2025-10-05,House Rent,Housing,UPI,18000.0,Expense
+2025-10-06,Blinkit,Groceries,UPI,1154.49,Expense
+2025-10-07,BookMyShow,Entertainment,UPI,789.79,Expense
+2025-10-08,JioFiber,Utilities,UPI,-999.0,Expense
+2025-10-08,Local Cafe,Food & Dining,UPI,669.26,Expense
+2025-10-09,Blinkit,Groceries,UPI,1301.16,Expense
+2025-10-10,Zomato,Food & Dining,UPI,254.84,Expense
+2025-10-10,Electricity Bill,Utilities,UPI,1797.66,Expense
+2025-10-11,Blinkit,Groceries,UPI,1357.33,Expense
+2025-10-11,Amazon,Shopping,Credit Card,3118.33,Expense
+2025-10-12,Local Cafe,Food & Dining,Credit Card,697.7,Expense
+2025-10-12,Uber,Transport,UPI,338.29,Expense
+2025-10-12,Local Cafe,Food & Dining,Credit Card,716.29,Expense
+2025-10-13,Ola,Transport,UPI,196.29,Expense
+2025-10-13,Blinkit,Groceries,UPI,867.06,Expense
+2025-10-13,DMart,Groceries,UPI,353.85,Expense
+2025-10-14,Netflix,Subscriptions,Credit Card,499.0,Expense
+2025-10-15,Local Cafe,Food & Dining,UPI,679.91,Expense
+2025-10-18,Zomato,Food & Dining,Credit Card,751.55,Expense
+19/10/2025,BigBasket,Groceries,Debit Card,401.12,Expense
+2025-10-19,Zomato,Food & Dining,Credit Card,904.02,Expense
+2025-10-20,Local Cafe,Food & Dining,UPI,884.75,Expense
+2025-10-21,Myntra,Shopping,Credit Card,761.85,Expense
+2025-10-22,Flipkart,,Credit Card,16500.0,Expense
+2025-10-27,BookMyShow,Entertainment,Credit Card,930.78,Expense
+2025-10-27,Ola,Transport,UPI,434.77,Expense
+2025-10-29,Ola,Transport,UPI,456.76,Expense
+2025-10-29,BigBasket,Groceries,Debit Card,827.06,Expense
+2025-10-29,Metro Recharge,Transport,UPI,290.86,Expense
+2025-10-29,Local Cafe,Food and Dining,,479.26,Expense
+2025-10-30,BigBasket,Groceries,UPI,1109.6,Expense
+2025-10-31,BigBasket,Groceries,UPI,1108.54,Expense
+2025-10-31,Uber,Transport,UPI,569.05,Expense
+2025-10-31,Flipkart,Shopping,Credit Card,2720.86,Expense
+2025-10-31,Ola,Transport,UPI,108.32,Expense
+2025-11-01,TechCorp Salary,Salary,NetBanking,80000.0,Income
+01/11/2025,BigBasket,Groceries,UPI,1385.66,Expense
+2025-11-03,Gym Membership,Health,Credit Card,2000.0,Expense
+2025-11-04,Metro Recharge,Transport,UPI,374.15,Expense
+2025-11-04,Metro Recharge,Transport,UPI,503.73,Expense
+2025-11-04,BigBasket,Groceries,Debit Card,504.78,Expense
+2025-11-05,IndiGo Flights,Travel,Credit Card,14200.0,Expense
+2025-11-05,House Rent,Housing,UPI,18000.0,Expense
+2025-11-06,BigBasket,Groceries,UPI,395.77,Expense
+2025-11-07,Zomato,Food & Dining,UPI,863.83,Expense
+2025-11-08,JioFiber,Utilities,UPI,999.0,Expense
+2025-11-09,PVR Cinemas,Entertainment,Credit Card,613.27,Expense
+2025-11-09,Myntra,Shopping,Credit Card,3183.11,Expense
+2025-11-09,Local Cafe,Food & Dining,Credit Card,630.73,Expense
+2025-11-10,Electricity Bill,Utilities,UPI,1616.58,Expense
+2025-11-10,Metro Recharge,Transport,UPI,264.97,Expense
+2025-11-11,Local Cafe,Food & Dining,UPI,230.58,Expense
+2025-11-12,Myntra,Shopping,UPI,967.63,Expense
+2025-11-14,DMart,Groceries,UPI,1107.52,Expense
+2025-11-14,Metro Recharge,Transport,UPI,118.81,Expense
+2025-11-14,Swiggy,Food & Dining,Credit Card,268.1,Expense
+2025-11-14,Netflix,Subscriptions,Credit Card,499.0,Expense
+2025-11-14,Zomato,Food & Dining,UPI,487.02,Expense
+2025-11-16,BigBasket,groceries,UPI,840.22,Expense
+2025-11-17,Zomato,Food & Dining,UPI,569.27,Expense
+2025-11-18,BigBasket,Groceries,UPI,376.42,Expense
+2025-11-19,Metro Recharge,Transport,UPI,404.54,Expense
+2025-11-20,Blinkit,Groceries,Debit Card,1150.71,Expense
+2025-11-21,Local Cafe,Food & Dining,Credit Card,735.05,Expense
+2025-11-21,Blinkit,Groceries,UPI,1398.37,Expense
+2025-11-22,Uber,Transport,UPI,320.05,Expense
+2025-11-22,Zomato,Food & Dining,UPI,914.27,Expense
+2025-11-22,Flipkart,Shopping,Credit Card,3311.28,Expense
+2025-11-23,Zomato,Food & Dining,UPI,945.86,Expense
+2025-11-23,Zomato,Food & Dining,UPI,872.44,Expense
+2025-11-24,Swiggy,Food & Dining,UPI,508.61,Expense
+2025-11-26,Blinkit,Groceries,Debit Card,622.34,Expense
+2025-11-26,Uber,Transport,UPI,401.57,Expense
+2025-11-27,Uber,Transport,UPI,142.21,Expense
+2025-11-28,Metro Recharge,Transport,UPI,617.03,Expense
+2025-11-28,BookMyShow,Entertainment,Credit Card,371.71,Expense
+2025-11-28,BigBasket,Groceries,UPI,1039.01,Expense
+2025-11-28,DMart,Groceries,Debit Card,596.87,Expense
+2025-11-28,Blinkit,Groceries,UPI,267.09,Expense
+2025-11-30,Ola,Transport,UPI,127.59,Expense
+2025-12-01,Blinkit,,Debit Card,860.06,Expense
+2025-12-01,TechCorp Salary,Salary,NetBanking,80000.0,Income
+2025-12-02,DMart,Groceries,UPI,562.92,Expense
+2025-12-02,Blinkit,Groceries,,1117.6,Expense
+2025-12-03,Gym Membership,Health,Credit Card,2000.0,Expense
+2025-12-03,Blinkit,Groceries,Debit Card,978.15,Expense
+2025-12-04,Myntra,Shopping,Credit Card,3498.95,Expense
+2025-12-04, ola ,Transport,UPI,101.68,Expense
+2025-12-05,BookMyShow,Entertainment,UPI,1063.47,Expense
+2025-12-05,PVR Cinemas,Entertainment,UPI,0.0,Expense
+2025-12-05,House Rent,Housing,UPI,18000.0,Expense
+2025-12-08,JioFiber,Utilities,UPI,999.0,Expense
+2025-12-10,Swiggy,Food & Dining,UPI,484.35,Expense
+2025-12-10,Electricity Bill,Utilities,UPI,1616.17,Expense
+2025-12-10,Zomato,Food & Dining,UPI,185.95,Expense
+2025-12-11,Uber,Transport,UPI,538.74,Expense
+2025-12-12,Zomato,Food & Dining,UPI,398.1,Expense
+2025-12-12,BigBasket,Groceries,Debit Card,623.04,Expense
+2025-12-12,Flipkart,Shopping,Credit Card,1356.06,Expense
+2025-12-13,BigBasket,Groceries,UPI,642.03,Expense
+2025-12-14,Netflix,Subscriptions,Credit Card,499.0,Expense
+2025-12-14,BigBasket,Groceries,UPI,1118.18,Expense
+2025-12-18, local cafe ,Food & Dining,UPI,565.2,Expense
+2025-12-19,Ola,Transport,UPI,383.42,Expense
+2025-12-19,Ola,Transport,UPI,411.1,Expense
+2025-12-20,Ola,Transport,UPI,555.93,Expense
+2025-12-20,Swiggy,Food & Dining,UPI,337.41,Expense
+2025-12-22,Local Cafe,Food & Dining,UPI,585.74,Expense
+2025-12-22,BigBasket,Groceries,UPI,948.14,Expense
+2025-12-23,Metro Recharge,Transport,UPI,323.91,Expense
+2025-12-24,Zomato,Food & Dining,UPI,279.47,Expense
+2025-12-24,Taj Restaurant,Food & Dining,Credit Card,6200.0,Expense
+2025-12-25,Amazon,Shopping,Credit Card,2233.55,Expense
+2025-12-27,Local Cafe,Food & Dining,UPI,235.5,Expense
+2025-12-28,Uber,Transport,UPI,226.26,Expense
+2025-12-28,Flipkart,Online Shopping,UPI,1309.03,Expense
+2025-12-28,Local Cafe,Food & Dining,UPI,515.89,Expense
+2025-12-28,Blinkit,Groceries,Debit Card,1005.95,Expense
+2025-12-30,Ola,Transport,UPI,139.35,Expense
+2025-12-30,Uber,Transport,UPI,572.78,Expense
+2025-12-31,DMart,Groceries,Debit Card,347.7,Expense
+2025-12-31,Swiggy,Food & Dining,UPI,768.4,Expense
+2025-03-30,Uber,Transport,UPI,141.69,Expense
+2025-03-01, techcorp salary ,Salary,NetBanking,80000.0,Income
+2025-11-07,Zomato,Food & Dining,UPI,863.83,Expense
+2025-07-01,TechCorp Salary,Salary,NetBanking,80000.0,Income
+2025-02-17,Blinkit,Groceries,Debit Card,622.78,Expense
+2025-05-03,Swiggy,Food & Dining,UPI,358.07,Expense
+2025-07-17,PVR Cinemas,Entertainment,Credit Card,410.33,Expense
+2025-10-12,Uber,Transport,UPI,338.29,Expense
+2025-04-20,Amazon,Shopping,Credit Card,24999.0,Expense
+2025-04-22,Blinkit,Groceries,UPI,1147.13,Expense
